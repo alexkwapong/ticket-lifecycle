@@ -51,6 +51,6 @@ When working and resolving the issue, update the ticket to communicate any statu
 <p>
 After ticket resolution, the ticket will automatically move to the "closed folder". That concludes this lab.
 
-![image](https://user-images.githubusercontent.com/117492330/210493869-52352452-b810-41f4-b6b5-e673abbe9405.png)</p>
+
 
 <br />
