@@ -37,7 +37,7 @@ After creating the tickets --> log into the "agent panel" --> assign each ticket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/QCpwWwm.png
 </p>
 <p>
 When working and resolving the issue, update the ticket to communicate any status changes.
