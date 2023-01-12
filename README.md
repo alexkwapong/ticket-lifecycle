@@ -46,7 +46,7 @@ When working and resolving the issue, update the ticket to communicate any statu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/b3BaT8m.png
 </p>
 <p>
 After ticket resolution, the ticket will automatically move to the "closed folder". That concludes this lab.
