@@ -29,7 +29,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/5nemPCd.png    
+     
 </p>![image](https://user-images.githubusercontent.com/117492330/210494131-721e113f-f24e-4eaa-9d71-88e9420d0aa6.png)<p>
 After creating the tickets --> log into the "agent panel" --> assign each ticket a "priority level", "department", & "SLA" --> communicate with the agent via "reply section" --> post changes. You should now see the changes you made in the main ticket queue.
 </p>
